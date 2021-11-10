@@ -10,7 +10,7 @@ pipeline {
                 }
             }
         }
-      }
+     
   stage('Install') {
              steps{
                 script{
@@ -43,7 +43,7 @@ pipeline {
 
 
 	
-    
+     }
       
       
     }
